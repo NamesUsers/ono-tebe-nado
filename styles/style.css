@@ -49,7 +49,6 @@
   margin-right: 30px;
 }
 
-.header__logo-image {}
 
 .header__contact {
   display: flex;
@@ -143,7 +142,7 @@
   margin-left: -50px;
 }
 
-.letter-spacing--empty{
+.letter-spacing--empty {
   margin-left: 25px;
 }
 
@@ -243,16 +242,16 @@
 .lots__item:last-child {
   margin-right: 0px;
 }
-.lot__1{
+.lot__1 {
   background: url('../images/card-lot-01.jpg') 0 0 / 100% 100% no-repeat;
 }
-.lot__2{
+.lot__2 {
   background: url('../images/card-lot-02.jpg') 0 0 / 100% 100% no-repeat;
 }
-.lot__3{
+.lot__3 {
   background: url('../images/card-lot-03.jpg') 0 0 / 100% 100% no-repeat;
 }
-.lots__item-content{
+.lots__item-content {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -342,7 +341,7 @@
 /* ======================================================= */
 
 .footer {
-  padding: 0 50px 88px; 
+  padding: 0px 50px 88px; 
 }
 .footer__inner {
   display: flex;
@@ -372,8 +371,7 @@
 .footer__contact-address {
   max-width: 237px;
 }
-.footer__menu {
-}
+
 .footer__menu-list {
   display: flex;
   flex-direction: column;
@@ -408,8 +406,7 @@
 .social__item:last-child {
   margin-right: 0px;
 }
-.social__link {
-}
+
 .social__link img {
   max-width: 48px;
   width: 100%;
