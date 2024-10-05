@@ -343,6 +343,7 @@
 .footer {
   padding: 0px 50px 88px; 
 }
+
 .footer__inner {
   display: flex;
   justify-content: space-between;
