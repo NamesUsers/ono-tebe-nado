@@ -1,1 +1,1 @@
-https://github.com/NamesUser/ono-tebe-nado
+https://github.com/NamesUsers/ono-tebe-nado
