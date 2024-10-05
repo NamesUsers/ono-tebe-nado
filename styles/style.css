@@ -207,3 +207,210 @@
   line-height: 26px;
   text-transform: uppercase;
 }
+/* ========================================================== */
+/* ========================================================== */
+
+.lots {
+  padding: 179px 24px 146px;
+}
+.lots__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.lots__title {
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  font-weight: 100;
+  line-height: 47px;
+  text-transform: uppercase;
+  padding-left: 40px;
+  margin-bottom: 27px;
+}
+.lots__list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: 334px;
+  margin-bottom: 30px;
+}
+.lots__item {
+  display: block;
+  max-width: 334px;
+  height: 563px;
+  margin-right: 25px;
+  padding: 51px 40px 48px;
+}
+.lots__item:last-child {
+  margin-right: 0px;
+}
+.lot__1{
+  background: url('../images/card-lot-01.jpg') 0 0 / 100% 100% no-repeat;
+}
+.lot__2{
+  background: url('../images/card-lot-02.jpg') 0 0 / 100% 100% no-repeat;
+}
+.lot__3{
+  background: url('../images/card-lot-03.jpg') 0 0 / 100% 100% no-repeat;
+}
+.lots__item-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  z-index: 1;
+  height: 100%;
+}
+.lots__item-title {
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-weight: 100;
+  line-height: 120%;
+  text-align: left;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+}
+
+.lots__item-des {
+  margin-top: auto;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 120%;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.lots__show-more {
+  display: block;
+  padding-left: 40px;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-weight: 100;
+  line-height: 23px;
+}
+/* ================================================== */
+/* ================================================== */
+
+.about {
+  padding: 0 24px 180px;
+}
+.about__inner {
+  display: flex;
+  justify-content: space-between;
+}
+.about__img-box {
+  background-color: black;
+  display: flex;
+  max-width: 240px;
+  width: 110%;
+  height: 240px;
+  border-radius: 50%;
+  margin-left: 47px;
+  margin-right: 72px;
+}
+.about__img-box img {
+  width: 148px;
+  height: 114px;
+  margin: auto;
+}
+.about__content {
+  padding-top: 95px;
+  display: flex;
+  flex-direction: column;
+}
+.about__title {
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 47px;
+  text-align: left;
+  letter-spacing: 0%;
+  text-transform: uppercase;
+  margin-bottom: 100px;
+}
+.about__des {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-weight: 100;
+  line-height: 24px;
+  text-align: left;
+  max-width: 693px;
+}
+
+/* ======================================================= */
+/* ======================================================= */
+
+.footer {
+  padding: 0 50px 88px; 
+}
+.footer__inner {
+  display: flex;
+  justify-content: space-between;
+}
+.footer__contact {
+  display: flex;
+  flex-direction: column;
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 24.3px;
+  letter-spacing: 1%;
+}
+.footer__contact-phone {
+  display: inline-block;
+  text-decoration: none;
+  border-bottom: 1px solid black;
+  max-width: 56%;
+}
+.footer__contact-mail {
+  display: inline-block;
+  text-decoration: none;
+  border-bottom: 1px solid black;
+  max-width: 56%;
+}
+.footer__contact-address {
+  max-width: 237px;
+}
+.footer__menu {
+}
+.footer__menu-list {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+.footer__menu-item {
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 21px;
+  letter-spacing: 0%;
+  text-align: center;
+
+}
+.footer__menu-link {
+  text-decoration: none;
+  border-bottom: 1px solid black;
+}
+.footer__menu-link--active {
+  border-bottom: none;
+
+}
+.social__list {
+  list-style: none;
+  display: flex;
+  max-width: 240px;
+  width: 100%;
+}
+.social__item {
+  margin-right: 48px;
+}
+.social__item:last-child {
+  margin-right: 0px;
+}
+.social__link {
+}
+.social__link img {
+  max-width: 48px;
+  width: 100%;
+  max-height: 48px;
+  height: 100%;
+}
