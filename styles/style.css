@@ -221,7 +221,7 @@
 .lots__title {
   color: rgb(0, 0, 0);
   font-size: 40px;
-  font-weight: 100;
+  font-weight: bold;
   line-height: 47px;
   text-transform: uppercase;
   padding-left: 40px;
@@ -263,7 +263,7 @@
 .lots__item-title {
   color: rgb(255, 255, 255);
   font-size: 22px;
-  font-weight: 100;
+  font-weight: bold;
   line-height: 120%;
   text-align: left;
   text-decoration-line: underline;
@@ -281,11 +281,13 @@
 }
 .lots__show-more {
   display: block;
-  padding-left: 40px;
+  margin-left: 40px;
   color: rgb(0, 0, 0);
   font-size: 20px;
   font-weight: 100;
   line-height: 23px;
+  text-decoration: none;
+  border-bottom: 1px solid black;
 }
 /* ================================================== */
 /* ================================================== */
