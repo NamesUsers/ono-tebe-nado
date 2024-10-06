@@ -147,12 +147,11 @@
   width: 100%;
   margin-right: 55px;
   letter-spacing: 30px;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .letter-spacing--empty {
-  margin-left: 5px;
-  letter-spacing: 65px;
+  letter-spacing: 60px;
 }
 
 .text__right {
@@ -224,7 +223,7 @@
 /* ========================================================== */
 
 .lots {
-  padding: 179px 24px 146px;
+  padding: 174px 24px 146px;
 }
 .lots__inner {
   display: flex;
