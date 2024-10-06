@@ -68,14 +68,14 @@
   text-decoration: none;
   border-bottom: 1px solid black;
   max-width: 56%;
-  text-wrap: nowrap;
+  white-space: nowrap;
 }
 
 .header__contact-mail {
   text-decoration: none;
   border-bottom: 1px solid black;
   max-width: 56%;
-  text-wrap: nowrap;
+  white-space: nowrap;
 }
 
 .header__contact-address {
@@ -216,7 +216,7 @@
 /* ========================================================== */
 
 .lots {
-  padding: 179px 24px 146px;
+  padding: 184px 24px 146px;
 }
 .lots__inner {
   display: flex;
@@ -367,11 +367,13 @@
   text-decoration: none;
   border-bottom: 1px solid black;
   max-width: 56%;
+  white-space: nowrap;
 }
 .footer__contact-mail {
   text-decoration: none;
   border-bottom: 1px solid black;
   max-width: 56%;
+  white-space: nowrap;
 }
 .footer__contact-address {
   max-width: 237px;
