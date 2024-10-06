@@ -5,7 +5,6 @@
   padding: 92px 24px 96px;
   display: flex;
   align-items: center;
-  height: 293px;
 }
 
 .header__menu {
@@ -85,6 +84,7 @@
 
 .header__contact-address {
   max-width: 237px;
+  font-style: normal;
 }
 
 /* ====================================================== */
@@ -115,7 +115,6 @@
 
 .hero__title {
   margin-bottom: 135px;
-  max-height: 355px;
   display: flex;
   flex-direction: column;
   letter-spacing: 30px;
@@ -216,6 +215,7 @@
   font-weight: 500;
   line-height: 26px;
   text-transform: uppercase;
+  font-family: Raleway;
 }
 /* ========================================================== */
 /* ========================================================== */
@@ -242,12 +242,13 @@
   flex-wrap: wrap;
   flex-basis: 334px;
   margin-bottom: 30px;
+  gap: 25px;
+
 }
 .lots__item {
   display: block;
   max-width: 334px;
-  height: 563px;
-  margin-right: 25px;
+  min-height: 563px;
   padding: 51px 40px 48px;
 }
 .lots__item:last-child {
@@ -294,7 +295,7 @@
   margin-left: 40px;
   color: rgb(0, 0, 0);
   font-size: 20px;
-  font-weight: 100;
+  font-weight: normal;
   line-height: 23px;
   text-decoration: none;
   border-bottom: 1px solid black;
@@ -335,7 +336,6 @@
   font-weight: bold;
   line-height: 47px;
   text-align: left;
-  letter-spacing: 0%;
   text-transform: uppercase;
   margin-bottom: 100px;
 }
@@ -385,6 +385,7 @@
 }
 .footer__contact-address {
   max-width: 237px;
+  font-style: normal;
 }
 
 .footer__menu-list {
