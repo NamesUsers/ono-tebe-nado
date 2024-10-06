@@ -150,7 +150,8 @@
 }
 
 .letter-spacing--empty {
-  margin-left: 60px;
+  margin-left: 25px;
+  letter-spacing: 60px;
 }
 
 .text__right {
