@@ -146,10 +146,11 @@
   max-width: 369px;
   width: 100%;
   margin-right: 50px;
+  letter-spacing: 30px;
 }
 
 .letter-spacing--empty {
-  margin-left: 25px;
+  margin-left: 60px;
 }
 
 .text__right {
