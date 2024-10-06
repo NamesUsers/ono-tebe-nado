@@ -145,14 +145,14 @@
   line-height: 100%;
   max-width: 369px;
   width: 100%;
-  margin-right: 50px;
+  margin-right: 55px;
   letter-spacing: 30px;
-  margin-right: 5px;
+  margin-top: 10px;
 }
 
 .letter-spacing--empty {
   margin-left: 5px;
-  letter-spacing: 60px;
+  letter-spacing: 65px;
 }
 
 .text__right {
