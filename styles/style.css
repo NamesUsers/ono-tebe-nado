@@ -184,7 +184,6 @@
 .hero__description {
   display: flex;
   align-items: center;
-  padding-bottom: 5px;
 }
 
 .hero__description-text {
@@ -224,7 +223,7 @@
 /* ========================================================== */
 
 .lots {
-  padding: 164px 24px 146px;
+  padding: 169px 24px 146px;
 }
 .lots__inner {
   display: flex;
