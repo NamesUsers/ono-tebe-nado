@@ -150,6 +150,7 @@
 }
 
 .letter-spacing--empty {
+  margin-left: 10px;
   letter-spacing: 60px;
 }
 
