@@ -132,12 +132,12 @@
 }
 
 .letter-spacing {
-  letter-spacing: 65px;
+  letter-spacing: 60px;
   margin-bottom: 15px;
 }
 
 .letter-spacing::first-letter {
-  letter-spacing: 25px;
+  letter-spacing: 30px;
 }
 
 .hero__text--center {
