@@ -164,7 +164,7 @@
 }
 
 .hero__text--right::first-letter {
-  letter-spacing: 40px;
+  letter-spacing: 55px;
 
 }
 
@@ -216,7 +216,7 @@
 /* ========================================================== */
 
 .lots {
-  padding: 179px 24px 146px;
+  padding: 175px 24px 146px;
 }
 .lots__inner {
   display: flex;
