@@ -110,7 +110,7 @@
 .hero__inner {
   position: relative;
   z-index: 1;
-  padding: 165px 50px 46px;
+  padding: 165px 50px 51px;
 }
 
 .hero__title {
@@ -184,6 +184,7 @@
 .hero__description {
   display: flex;
   align-items: center;
+  margin-bottom: 5px;
 }
 
 .hero__description-text {
