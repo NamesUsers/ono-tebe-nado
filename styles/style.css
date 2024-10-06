@@ -295,7 +295,7 @@
 /* ================================================== */
 
 .about {
-  padding: 40px 24px 180px;
+  padding: 42px 24px 180px;
 }
 .about__inner {
   display: flex;
@@ -317,7 +317,7 @@
   margin: auto;
 }
 .about__content {
-  padding-top: 95px;
+  padding-top: 100px;
   display: flex;
   flex-direction: column;
 }
