@@ -66,17 +66,10 @@
 
 .header__contact-phone {
   display: inline-block;
-  text-decoration: none;
-  border-bottom: 1px solid black;
-  max-width: 56%;
-  text-wrap: nowrap;
 }
 
 .header__contact-mail {
-  text-decoration: none;
-  border-bottom: 1px solid black;
-  max-width: 56%;
-  text-wrap: nowrap;
+  display: inline-block;
 }
 
 .header__contact-address {
@@ -366,15 +359,10 @@
 }
 .footer__contact-phone {
   display: inline-block;
-  text-decoration: none;
-  border-bottom: 1px solid black;
-  max-width: 56%;
 }
+
 .footer__contact-mail {
   display: inline-block;
-  text-decoration: none;
-  border-bottom: 1px solid black;
-  max-width: 56%;
 }
 .footer__contact-address {
   max-width: 237px;
