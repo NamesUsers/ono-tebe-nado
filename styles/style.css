@@ -142,10 +142,10 @@
 
 .hero__text--center {
   text-align: center;
-  height: 100px;
+  line-height: 100%;
   max-width: 369px;
   width: 100%;
-  margin-left: -50px;
+  margin-right: 50px;
 }
 
 .letter-spacing--empty {
@@ -161,7 +161,7 @@
   letter-spacing: 30px;
   text-align: right;
   margin-bottom: 0;
-  height: 100px;
+  line-height: 100%;
   max-width: 417px;
   width: 100%;
 }
