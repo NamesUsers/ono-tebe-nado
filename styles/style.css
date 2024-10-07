@@ -14,6 +14,7 @@
   opacity: 0.6;
   z-index: -1;
 }
+
 .contact__info { 
   text-decoration: none; 
   border-bottom: 1px solid black; 
@@ -102,8 +103,6 @@
   position: relative;
   z-index: 1;
 }
-
-
 
 .hero__inner {
   position: relative;
@@ -214,6 +213,7 @@
 
 .lots {
   padding: 174px 24px 146px;
+
 }
 .lots__inner {
   display: flex;
@@ -296,7 +296,7 @@
 /* ================================================== */
 
 .about {
-  padding: 35px 24px 180px;
+  padding: 35px 24px 166px;
 }
 .about__inner {
   display: flex;
@@ -338,9 +338,10 @@
   line-height: 24px;
   text-align: left;
   max-width: 693px;
+  margin-bottom: 24px;
 }
 .about__des-1 {
-  margin-bottom: 24px;
+
 }
 
 /* ======================================================= */
