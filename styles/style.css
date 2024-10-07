@@ -108,8 +108,6 @@
 }
 
 .hero__inner {
-  position: relative;
-  z-index: 1;
   padding: 165px 50px 51px;
 }
 
