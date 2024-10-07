@@ -136,14 +136,14 @@
   line-height: 100%;
   max-width: 369px;
   width: 100%;
-  margin-right: 55px;
+  padding-right: 55px;
   letter-spacing: 30px;
-  margin-top: 5px;
-  margin-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 20px;
   margin: 0 auto;
 }
 
-.letter-spacing--empty {
+.hero__text-center--empty {
   letter-spacing: 60px;
 }
 
