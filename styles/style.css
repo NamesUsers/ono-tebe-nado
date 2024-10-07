@@ -140,17 +140,13 @@
   letter-spacing: 30px;
   padding-top: 5px;
   padding-bottom: 20px;
-  margin-left: 300px;
+  margin-left: 290px;
 }
 
 .hero__text-center--empty {
   letter-spacing: 60px;
 }
 
-.text__right {
-  width: 100%;
-  text-align: right;
-}
 
 .hero__text--right {
   letter-spacing: 30px;
@@ -159,19 +155,13 @@
   line-height: 100%;
   max-width: 417px;
   width: 100%;
+  margin-left: auto;
 }
 
 .hero__text--right::first-letter {
   letter-spacing: 60px;
 
 }
-
-.text__center {
-  width: 100%;
-  text-align: center;
-}
-
-
 
 .hero__description {
   display: flex;
