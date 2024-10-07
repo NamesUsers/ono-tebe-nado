@@ -1,3 +1,11 @@
+.contact__address {
+  max-width: 237px;
+  font-style: normal;
+}
+
+
+/* ==================================================================== */
+/* ==================================================================== */
 /* * {
   border: 1px solid red;
 } */
@@ -68,24 +76,6 @@
   padding-right: 25.48px;
 }
 
-.header__contact-phone {
-  text-decoration: none;
-  border-bottom: 1px solid black;
-  max-width: 56%;
-  white-space: nowrap;
-}
-
-.header__contact-mail {
-  text-decoration: none;
-  border-bottom: 1px solid black;
-  max-width: 56%;
-  white-space: nowrap;
-}
-
-.header__contact-address {
-  max-width: 237px;
-  font-style: normal;
-}
 
 /* ====================================================== */
 /* ====================================================== */
@@ -131,16 +121,17 @@
   width: 100%;
 }
 
-.letter-spacing {
+.hero__text--left {
   letter-spacing: 60px;
   margin-bottom: 15px;
 }
 
-.letter-spacing::first-letter {
+.hero__text--left::first-letter {
   letter-spacing: 30px;
 }
 
 .hero__text--center {
+  display: inline-block;
   text-align: center;
   line-height: 100%;
   max-width: 369px;
@@ -148,6 +139,8 @@
   margin-right: 55px;
   letter-spacing: 30px;
   margin-top: 5px;
+  margin-bottom: 20px;
+  margin: 0 auto;
 }
 
 .letter-spacing--empty {
@@ -176,7 +169,6 @@
 .text__center {
   width: 100%;
   text-align: center;
-  margin-bottom: 20px;
 }
 
 
@@ -373,22 +365,6 @@
   font-weight: 100;
   line-height: 24.3px;
   letter-spacing: 1%;
-}
-.footer__contact-phone {
-  text-decoration: none;
-  border-bottom: 1px solid black;
-  max-width: 56%;
-  white-space: nowrap;
-}
-.footer__contact-mail {
-  text-decoration: none;
-  border-bottom: 1px solid black;
-  max-width: 56%;
-  white-space: nowrap;
-}
-.footer__contact-address {
-  max-width: 237px;
-  font-style: normal;
 }
 
 .footer__menu-list {
