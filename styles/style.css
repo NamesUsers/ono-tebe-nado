@@ -1,6 +1,5 @@
 .contact__address {
   max-width: 237px;
-  font-style: normal;
 }
 .overlay {
   position: relative;
@@ -95,6 +94,7 @@
   letter-spacing: 1%;
   padding-right: 25.48px;
   margin-right: 5px;
+  font-style: normal;
 }
 
 
@@ -144,7 +144,7 @@
   line-height: 100%;
   max-width: 369px;
   width: 100%;
-  padding-right: 55px;
+  /* padding-right: 55px; */
   letter-spacing: 30px;
   padding-top: 5px;
   padding-bottom: 20px;
@@ -207,7 +207,7 @@
   font-weight: 500;
   line-height: 26px;
   text-transform: uppercase;
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
 }
 /* ========================================================== */
 /* ========================================================== */
@@ -361,6 +361,7 @@
   font-weight: 100;
   line-height: 24.3px;
   letter-spacing: 1%;
+  font-style: normal;
 }
 
 .footer__menu-list {
