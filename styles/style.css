@@ -14,12 +14,21 @@
   z-index: -1;
 }
 
-
 .contact__info {
   text-decoration: none;
   border-bottom: 1px solid black;
   max-width: 56%;
   white-space: nowrap;
+}
+
+.address__info-box{
+  display: flex;
+  flex-direction: column;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 24.3px;
 }
 
 /* ==================================================================== */
@@ -83,18 +92,12 @@
 }
 
 .header__contact {
-  display: flex;
-  flex-wrap: nowrap;
-  flex-direction: column;
   margin-left: auto;
-  color: rgb(0, 0, 0);
-  font-size: 18px;
-  font-weight: 400;
-  line-height: 24.3px;
-  letter-spacing: 1%;
-  padding-right: 25.48px;
-  margin-right: 5px;
-  font-style: normal;
+  padding-right: 28px;
+  /* margin-right: 5px; */
+}
+.footer__contact {
+  margin-right: 30px;
 }
 
 
@@ -121,7 +124,7 @@
   display: inline-block;
   color: rgb(255, 255, 255);
   font-size: 100px;
-  font-weight: 700;
+  font-weight: bold;
   line-height: 115%;
   text-transform: uppercase;
 }
@@ -342,16 +345,6 @@
 .footer__inner {
   display: flex;
   justify-content: space-between;
-}
-.footer__contact {
-  display: flex;
-  flex-direction: column;
-  color: rgb(0, 0, 0);
-  font-size: 18px;
-  font-weight: 100;
-  line-height: 24.3px;
-  letter-spacing: 1%;
-  font-style: normal;
 }
 
 .footer__menu-list {
