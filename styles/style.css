@@ -21,7 +21,7 @@
   white-space: nowrap;
 }
 
-.address__info-box{
+.address__info-box {
   display: flex;
   flex-direction: column;
   font-style: normal;
@@ -93,13 +93,9 @@
 
 .header__contact {
   margin-left: auto;
-  padding-right: 28px;
-  /* margin-right: 5px; */
+  padding-right: 25.48px;
+  margin-right: 5px;
 }
-.footer__contact {
-  margin-right: 30px;
-}
-
 
 /* ====================================================== */
 /* ====================================================== */
