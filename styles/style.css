@@ -55,7 +55,7 @@
 .header__menu-item {
   color: rgb(0, 0, 0);
   font-size: 18px;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 21px;
   letter-spacing: 0%;
   margin-right: 31.48px;
@@ -168,7 +168,7 @@
 .hero__description-text {
   color: rgb(255, 255, 255);
   font-size: 22px;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 28px;
   text-transform: uppercase;
   word-spacing: 18px;
@@ -324,7 +324,7 @@
 .about__des {
   color: rgb(0, 0, 0);
   font-size: 20px;
-  font-weight: 100;
+  font-weight: normal;
   line-height: 24px;
   text-align: left;
   max-width: 693px;
@@ -351,7 +351,7 @@
 .footer__menu-item {
   color: rgb(0, 0, 0);
   font-size: 18px;
-  font-weight: 100;
+  font-weight: normal;
   line-height: 21px;
   letter-spacing: 0%;
   text-align: center;
