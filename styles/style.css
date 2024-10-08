@@ -154,7 +154,10 @@
 
 .hero__text--right::first-letter {
   letter-spacing: 60px;
+}
 
+.hero__text-right--empty{
+  letter-spacing: 0px;
 }
 
 .hero__description {
