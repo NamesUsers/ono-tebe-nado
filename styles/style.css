@@ -144,10 +144,9 @@
   line-height: 100%;
   max-width: 369px;
   width: 100%;
-  /* padding-right: 55px; */
   letter-spacing: 30px;
-  padding-top: 5px;
-  padding-bottom: 20px;
+  margin-top: 5px;
+  margin-bottom: 20px;
   margin-left: 285px;
 }
 
