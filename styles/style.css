@@ -14,13 +14,6 @@
   z-index: -1;
 }
 
-.contact__info {
-  text-decoration: none;
-  border-bottom: 1px solid black;
-  max-width: 56%;
-  white-space: nowrap;
-}
-
 .address__info-box {
   display: flex;
   flex-direction: column;
@@ -31,6 +24,12 @@
   line-height: 24.3px;
 }
 
+.contact__info {
+  text-decoration: none;
+  border-bottom: 1px solid black;
+  max-width: 56%;
+  white-space: nowrap;
+}
 /* ==================================================================== */
 /* ==================================================================== */
 
